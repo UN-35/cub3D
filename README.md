@@ -164,4 +164,10 @@ This project is licensed under the MIT License.
 
 ---
 
-*This project was created as part of the curriculum at [1337 School](https://1337.ma/)*
+
+<div align="center">
+  This project was completed as part of the curriculum at <a href="https://1337.ma/">1337 School</a>.
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/younes-elansari/)
+  [![GitHub](https://img.shields.io/badge/Follow-GitHub-black.svg?style=flat&logo=github)](https://github.com/UN-35)
+</div>
