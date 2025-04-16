@@ -147,18 +147,14 @@ This implementation uses the Digital Differential Analysis (DDA) algorithm for r
 - Wall hit determination optimized for grid-based environments
 - Texture mapping using bit shifts and fixed-point arithmetic
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## 👥 Contributors
 
 - ([@Matich](https://github.com/melhadou))
 - ([@UN35](https://github.com/UN-35))
+
+## 📝 License
+
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgements
 
